@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "job-interview-1-lskpbf",
+  "private_key_id": "0060cddd99e2559ecd1dd46ddd81508225342ae8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCbYz/aCfp48sFU\noB5pOo2IJ8DGiPRLshpAE0AgToBYcC8n7I4eEjNaqobvzDhISnODi5DGdKv1hBVT\njI4fti8yxhHiXmWTXNa3gxbhZleyCequcLhvuZrxw7y9ikR1THJvgPm12+fc7gcI\nz8K5UzNLDILN9LgL0prhQ4t7qqdXMoKe72f3lhoqNaHWeY/jMw9M9/qAqKgLLHCC\n1Rj3jzoUAc3h0LeF5HMijf4HGrlE4tEwO0FkBk83sbPaiOC60yvy42dq5hgt1dFl\n6qEHcBNe9y0zYWVKojQzrChIpC45M2+HZj4rPFE5anzDeFwzn5+KdWRV/Ykj2mZ7\nUc7dN61BAgMBAAECggEAAIwgM3AXoXwATvCe26VnvEw5YDvoW8P5SP8zB6EfKawZ\nY8JZuRvQ4i3g+EM+YCSj+qbyLB7USV2OpDN+AcwZY/kLzbaiC3Vs14D23rRKD73P\nD6IAuEA+cVyG2vWLd3QjJw9mq5x4OZ+WXK+jBbx9IrJrntY3Bmx6iLM9URbsrq8o\nJCA4wt91Rrcfgg1yUbj4lSfLH90MVEOQ5O+cMMfjfCCZKQmndPMoyqQpdTpV71Iw\nQtOiuKNfYddNJqpMFsoPGk6ESrIas8cYl8g+IvmOgO+rTxHGRQazEB2eqqUGWr4h\n7j1UqnerKDVqVKIme817pzeYF5+uhoPPtRYTcDtZvQKBgQDWT1VvJONfM4C3LhpT\n2kxItqC6F9bdrzZyqXjLCP1m/ZEIPMQPQtYyjvb7ueG/mZIH6fCqkjXO8pEuc8vj\nQyetgkpJITU5+lEQXj2SLHxOmDcZjeGcygNvbdGQPAWFp0CuNB16kj5C1NskZ1pG\niPhNya3cxJpOQJhNSqYmx6oJFwKBgQC5nZSrXhkvzxA4oXAx7O9Y8DsfGE0NwNTS\nUVcqEm76nuYEDKe5bo2iZnLtiiEtXtb/l/9fwH5IpYYt0N7cPaEHymmvtQJoSHEQ\nUyWNFj00HKTrRtbL1g8isIOaHCze8y+U4zCv5nBgvjt7hKcCyiX3s1WmlukL+q1q\nRdMDvhtDZwKBgQDNvgoSEsLqUaJ/uZXy7H8Ry6qQHXTdDGnkOIjLuwyzhDlpRBUh\nZZQHo7K/RdvROpi0WkX/KzDXRY5VnzudKYp9C7lPbb8QsxyB70eC/ow0U/OJ5+kx\nwcr8fdyTcNwITOJOm5+1XZLCTGE6GLLVRofC/hyY9nIBMAhHI6RRVJwL7wKBgCio\n0CxJzJKgdRkyo/ULxdJhrVG+bQKaPwRjNQjOSOk1bYVtkEAaa4QrlPlbzLC3mbkb\nfqFm9ULMn3vhyS/NgDzIpiYLLJ/TXpEI5azmNjn4HFg9iEfWeDJNIEbd7SZZdw7S\nRZQCkpNemIESKdN+nJqJ+jUn0Z0CKIKjEPo85pP5AoGBAInyhausuktkZAxTVZ0g\nXAgfpZFnY5s9y4xQBhtGKtaNIojsFGF4SCeKMVCmL8hDBfK4K9x2rtmFE4fWiyo/\nHYw3CgdeJicolDATunTMpF3nxIbgohfHqmpUVGKViPKMWYNpBrrTy0Aaf130fFRm\nNq1q5sxKzGmHLWis8el28aVT\n-----END PRIVATE KEY-----\n",
+  "client_email": "chat-bot-job@job-interview-1-lskpbf.iam.gserviceaccount.com",
+  "client_id": "113423963895894835278",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chat-bot-job%40job-interview-1-lskpbf.iam.gserviceaccount.com"
+}
